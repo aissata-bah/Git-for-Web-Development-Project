@@ -1,10 +1,15 @@
 https://codepen.io/AissataBahWeb45/pen/NWpXVyb
 
 1. What is Semantic HTML? 
+    a descriptive tag that gives markup meaning
     2. What is HTML used for? 
+    language that a browser reads. purpose is to create structure of a site.
     3. What is an attribute and where do we put it? 
+    special words used inside opening tag to control an element's behavior. put it always inside opening tag.
     4. What is the h1 tag used for? How many times should I use it on a page?
+    defines the most important heading and should only be used once.
     5. Name two tags that have required attributes
+    anchor tag and img tag.
     6. What do we put in the head of our HTML document? 
     7. What is an id? 
     8. What elements can I add an id to? 
